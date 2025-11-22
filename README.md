@@ -108,6 +108,85 @@ I’m still early in my journey, but I’m energized by how far I’ve come and 
 
 ---
 
+
+
+<h1 align="center">🚀 About Me</h1>
+
+<p align="center">
+  Welcome to my GitHub! I’m passionate about exploring the world of <strong>data, cloud computing, networks, and infrastructure</strong>. Here, I share my projects, learning journey, and experiments with technology.
+</p>
+
+---
+
+### 💻 What I Do
+I enjoy working where analytics, cloud computing, and infrastructure come together. This allows me to see technology from different angles — understanding how data is collected, stored, processed, and analyzed, while also seeing how servers, networks, and cloud platforms support those processes.  
+
+Whether it’s analyzing datasets in Python, configuring a Windows server, writing SQL queries, exploring Azure services, or studying network diagrams, I stay motivated and engaged.
+
+---
+
+### 🌟 What Excites Me
+Technology has the power to **solve real-world problems**.  
+- With **data**, we uncover trends and make informed decisions.  
+- With **cloud computing**, we build scalable, reliable solutions accessible anywhere.  
+- With **networking and infrastructure**, we create the backbone that keeps organizations running.  
+- With **cybersecurity**, we keep systems safe.  
+
+Combining these areas forms a strong foundation for a well-rounded IT professional — which is the type of professional I aspire to be.
+
+---
+
+### 🛠 Tools & Technologies
+I work with a variety of tools and platforms for **data, cloud, and infrastructure projects**:
+
+**Languages & DBs:** Python, SQL, Power BI, PostgreSQL, MySQL, HTML, CSS, JavaScript  
+**Platforms & Cloud:** Microsoft Azure, AWS, GCP  
+**Tools:** Jupyter Notebook, Anaconda, Excel, Kaggle  
+**Infrastructure & Networking:** Active Directory, DNS, DHCP, Group Policy, virtualization basics, Cisco Packet Tracer, Fortinet  
+
+---
+
+### 🚀 My Interests
+I’m passionate about the intersection of **data and cloud infrastructure** — building data pipelines, creating dashboards for insights, and understanding how cloud services scale organizations.  
+
+I enjoy learning about virtual machines, identity management, automation, security, and cloud-native architectures. Every new skill unlocks a piece of the bigger puzzle of modern digital systems.
+
+---
+
+### 🌱 Growth & Learning
+I am driven by the desire to **keep learning, improving, and becoming more confident** in my skills. Technology never stops evolving, and I approach every challenge with curiosity and determination.  
+
+I celebrate milestones, big or small, and enjoy breaking down complex concepts into simple ideas. Lifelong learning is key to staying relevant in tech.
+
+---
+
+### 🎯 Career Goals
+I aim to build a long-term career and grow into roles like:  
+- Data Analyst  
+- Cloud Engineer  
+- IT Support Engineer  
+- Network Technician  
+- Systems Administrator  
+
+I value teamwork, problem-solving, reliability, and a positive attitude in everything I do. I am committed to creating **reliable, scalable, and secure systems** that solve real problems.
+
+---
+
+### ✨ Fun with Technology
+On the creative side, I love bringing ideas to life. Writing code, connecting servers, designing dashboards, and configuring cloud services that just work gives a deep sense of accomplishment and excitement.
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nomzamo%20Precious%20Dhlamini-blue?logo=linkedin)](https://www.linkedin.com/in/nomzamo-dhlamini-52a7bb29b/)  
+[![Email](https://img.shields.io/badge/Email-nomzamopreciousdhlamini@gmail.com-red?logo=gmail)](mailto:nomzamopreciousdhlamini@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-NomzamoPrecious-black?logo=github)](https://github.com/NomzamoPrecious)
+
+---
+
+<p align="center">I’m still early in my journey, but energized by how far I’ve come and excited for what’s ahead. Let’s explore the world of data, networks, and cloud computing, one project at a time! 🌐</p>
+
+---
 ### ⚡ Fun Fact  
 Sometimes I wish life had a SQL query so I could filter out decisions faster 🤣
 
