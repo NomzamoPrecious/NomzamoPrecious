@@ -82,12 +82,6 @@
 
 ---
 
-# 🚀 About Me
-
-Got it! I’ve removed all dashes and made the text flow naturally:
-
----
-
 ### 🚀 About Me
 
 I enjoy working where analytics, cloud computing, and infrastructure come together. This mix allows me to see technology from different angles, understanding how data is collected, stored, processed, and analyzed while also seeing how servers, networks, and cloud platforms support those processes. Whether I’m analyzing datasets in Python, configuring a Windows server, writing SQL queries, exploring Azure services, or studying network diagrams, I feel motivated and engaged.
