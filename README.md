@@ -65,7 +65,7 @@
 
 ---
 
-### 📊 GitHub Stats (Dark Theme)
+### 📊 GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=NomzamoPrecious&show_icons=true&theme=radical" height="170"/>
