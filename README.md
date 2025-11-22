@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Precious Dhlamini 👋</h1>
 
-<h3 align="center">Aspiring Data • Network • Cloud Professional</h3>
+<h3 align="center">Aspiring Data • Network • CyberOps • Cloud Professional</h3>
 
 <p align="center">
   Passionate about data, cloud technologies, networking, and modern IT infrastructure.  
