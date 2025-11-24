@@ -90,8 +90,6 @@ What excites me most about technology is its ability to solve real-world problem
 
 From a technical perspective, I work with tools like Python, SQL, Power BI, PostgreSQL, MySQL, HTML, CSS, JavaScript, Linux, and Windows Server. I’m also familiar with cloud platforms including Microsoft Azure, Amazon Web Services, and Google Cloud Platform. I enjoy using tools like Jupyter Notebook, Anaconda, Excel, and Kaggle for data exploration and learning. On the infrastructure side, I have experience with Active Directory, DNS, DHCP, Group Policy, virtualization basics, and network configuration using Cisco Packet Tracer and Fortinet concepts. This combination helps me develop both technical depth and practical versatility.
 
-I’m especially interested in areas where data meets cloud infrastructure, such as building data pipelines, creating dashboards for insights, and understanding how cloud services support organizations at scale. Learning about virtual machines, identity management, automation, security, and cloud-native architectures excites me because every new skill unlocks another piece of the bigger puzzle of modern digital systems.
-
 I’m driven by the desire to keep learning, improving, and becoming more confident in my skills. I believe a good technologist never stops learning because technology never stops evolving. I approach every new tool, challenge, or concept with curiosity and a willingness to understand it deeply. Whether it’s a new SQL function, a cloud setup, a network topology, or a data visualization method, I enjoy the process of discovery and mastery.
 
 Professionally, I aim to build a long-term career where I can grow into roles like Data Analyst, Cloud Engineer, IT Support Engineer, Network Technician, or Systems Administrator. I want to work in environments where I can contribute knowledge, deliver solutions, and continue developing into a specialized yet versatile professional. I value teamwork, problem-solving, and reliability, and I always strive to bring a positive attitude to everything I do.
@@ -100,14 +98,12 @@ I also approach technology with a strong sense of responsibility. Systems need t
 
 On a creative level, I love that technology allows us to bring ideas to life. Writing code, connecting servers, designing dashboards, or configuring cloud services that suddenly work gives a sense of accomplishment and excitement.
 
-I am also a strong believer in self-improvement and lifelong learning. I enjoy taking online courses, practicing on platforms like Kaggle, exploring documentation, and learning from real projects. I like breaking things down into simple ideas before tackling complex concepts, and I celebrate every milestone, big or small.
+I am also a strong believer in self-improvement and lifelong learning. I enjoy taking online courses, practicing on different platforms , exploring documentation, and learning from real projects. I like breaking things down into simple ideas before tackling complex concepts, and I celebrate every milestone, big or small.
 
 Overall, I see myself as a growing professional who is passionate, curious, disciplined, and dedicated to becoming better every day. I want to build a future where I use data to support decisions, cloud platforms to drive innovation, and networking knowledge to create strong digital foundations. I aim to help create reliable, scalable, and secure systems that solve real problems.
 
-I’m still early in my journey, but I’m energized by how far I’ve come and excited for what’s ahead. The world of data, networks, and cloud computing is vast, and I’m committed to exploring it one skill, one project, and one meaningful step at a time.
-
 ---
 ### ⚡ Fun Fact  
-Sometimes I wish life had a SQL query so I could filter out decisions faster 🤣
+Sometimes I wish life had a SQL query so I could filter out decisions faster 🤣🙂‍↔️
 
 ---
