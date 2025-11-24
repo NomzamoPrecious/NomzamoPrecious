@@ -93,6 +93,6 @@ I also approach technology with a strong sense of responsibility. Systems need t
 I am also a strong believer in self-improvement and lifelong learning. I enjoy taking online courses, practicing on different platforms, exploring documentation, and learning from real projects. I like breaking things down into simple ideas before tackling complex concepts, and I celebrate every milestone, big or small. Overall, I see myself as a growing professional who is passionate, curious, disciplined, and dedicated to becoming better every day. I want to build a future where I use data to support decisions, cloud platforms to drive innovation, and networking knowledge to create strong digital foundations. I aim to help create reliable, scalable, and secure systems that solve real problems.
 ---
 ### ⚡ Fun Fact  
-Sometimes I wish life had a SQL query so I could filter out decisions faster 
+Sometimes I wish life had a SQL query so I could filter out decisions faster 🤣🙂‍↔️
 
 ---
