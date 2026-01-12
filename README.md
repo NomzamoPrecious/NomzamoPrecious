@@ -65,20 +65,6 @@
 
 ---
 
-### GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=NomzamoPrecious&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NomzamoPrecious&layout=compact&theme=radical" height="170"/>
-</p>
-
----
-
-### GitHub Trophies
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=NomzamoPrecious&theme=radical&no-bg=true&no-frame=true&column=6" />
-</p>
 
 ---
 
