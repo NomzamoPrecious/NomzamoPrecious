@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Precious Dhlamini 👋</h1>
+<h1 align="center">Hi, I'm Precious Dhlamini </h1>
 
 <h3 align="center">Aspiring Data • Network • CyberOps • Cloud Professional</h3>
 
@@ -10,7 +10,7 @@
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/nomzamo-dhlamini-52a7bb29b/">
@@ -23,7 +23,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <!-- Skillicons (main tech icons) -->
 <p>
@@ -65,7 +65,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=NomzamoPrecious&show_icons=true&theme=radical" height="170"/>
@@ -74,7 +74,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=NomzamoPrecious&theme=radical&no-bg=true&no-frame=true&column=6" />
@@ -82,7 +82,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I enjoy working where analytics, cloud computing, and infrastructure come together. This mix allows me to see technology from different angles, understanding how data is collected, stored, processed, and analyzed while also seeing how servers, networks, and cloud platforms support those processes. Whether I’m analyzing datasets in Python, configuring a Windows server, writing SQL queries, exploring Azure services, or studying network diagrams, I feel motivated and engaged. What excites me most about technology is its ability to solve real-world problems. With data, we can uncover trends, answer questions, and make better decisions. With cloud computing, we can build solutions that are scalable and reliable, reaching users anywhere. With networking and infrastructure, we create the backbone that keeps organizations running. With cybersecurity, we ensure these systems remain safe. For me, combining these areas forms a strong foundation for a well-rounded IT professional, which is the kind of professional I aim to become.
 
@@ -93,7 +93,6 @@ I also approach technology with a strong sense of responsibility. Systems need t
 I am also a strong believer in self-improvement and lifelong learning. I enjoy taking online courses, practicing on different platforms, exploring documentation, and learning from real projects. I like breaking things down into simple ideas before tackling complex concepts, and I celebrate every milestone, big or small. Overall, I see myself as a growing professional who is passionate, curious, disciplined, and dedicated to becoming better every day. I want to build a future where I use data to support decisions, cloud platforms to drive innovation, and networking knowledge to create strong digital foundations. I aim to help create reliable, scalable, and secure systems that solve real problems.
 
 ---
-### ⚡ Fun Fact  
-Sometimes I wish life had a SQL query so I could filter out decisions faster 🤣🙂‍↔️
+
 
 ---
